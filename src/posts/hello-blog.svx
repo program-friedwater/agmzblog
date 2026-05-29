@@ -1,0 +1,18 @@
+---
+title: "Hello My Blog!"
+description: "初めての記事"
+date: 2026-05-29
+---
+<script>
+    import Spotify from '$lib/components/spotify.svelte'
+    import Twitter from '$lib/components/twitter.svelte'
+    import Youtube from '$lib/components/youtube.svelte'
+</script>
+Hello Blog!
+```js
+console.log("Hi")
+```
+<Youtube youtubeId="dQw4w9WgXcQ" />
+<Spotify trackId="6MXXY2eiWkpDCezVCc0cMH" />
+<Twitter url="https://x.com/kano9x/status/145669840114425857" />
+[cxx](https://x.com/age_water)
