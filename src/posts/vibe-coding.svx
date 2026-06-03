@@ -1,0 +1,36 @@
+---
+title: "Vibe Codingをしてみた"
+description: "楽しいは楽しいけどそれだけでいいのか"
+date: 2026-06-03
+---
+
+<script>
+    import Spotify from '$lib/components/spotify.svelte'
+</script>
+
+Vibe Codingをしてみました。  
+
+まあ、楽しい。
+
+## Why
+食わず嫌いは良くない。
+
+## 生産性とか難易度とか
+生産性はかなり上がりました。
+[FediTile](https://github.com/program-friedwater/FediTile) なんかは全部Vibe Codingです。  
+それでも特に問題はなかったです。  
+
+難易度については、下がりはしたけどAIの扱いをしないといけないので自分でのコーディングと別の難しさがありました。  
+
+## そもそも何のAI使ったの
+Codex です。 ChatGPT Plusを契約しました。
+
+## 楽しいけど...
+Vibe Codingで作るプロジェクトと自分でやるプロジェクトは分けようと思います。  
+Vibe Codingしてると自分と書き方違ったり色々自分で直すのは面倒なので。
+
+### AIにこういう書き方してって頼めばいいじゃん
+そんなことするなら編集しないほうがいい。少なくとも自分は
+
+## 今日の曲
+<Spotify trackId="2dvTutCISmanWOYdFMfqKo?si=2d10d91a0e39448a" />
